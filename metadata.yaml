@@ -1,0 +1,30 @@
+_repo: Vocational-Guidance-for-Girls_15595
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Dickson, Marguerite
+    alias: Dickson, Marguerite Stockman
+    gutenberg_agent_id: '6143'
+    url: http://www.gutenberg.org/2009/agents/6143
+description: Drawing on her experience as a teacher, school superintendent, and as
+  a mother, Dickson argues that any vocational training must be complemented by domestic
+  training because women's primary duty is in the home.
+gutenberg_issued: '2005-04-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15595'
+  lccn: '20000671'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Young women'
+- !lcsh 'Vocational guidance'
+- !lcc 'HD'
+- !lcsh 'Women -- Employment'
+title: Vocational Guidance for Girls
+url: http://www.gutenberg.org/ebooks/15595
